@@ -29,3 +29,11 @@ A Streamlit chatbot that answers questions about an uploaded PDF using Retrieval
 ## Notes on Deployment
 This app uses Ollama via `http://localhost:11434`, so it is designed to run locally.
 To deploy online, replace the LLM + embeddings with a hosted API or host Ollama on a server.
+
+## Important
+Go to Visual Studio Code and enter the virtual environment first: 
+
+.venv/Scripts/Activate.ps1
+
+Streamlit run app.py
+
