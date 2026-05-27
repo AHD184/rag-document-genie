@@ -8,7 +8,7 @@ This project uses **Streamlit**, **Ollama**, local embeddings, and cosine simila
 
 ## Demo Video
 
-[Watch the demo video](assets/demo.mp4)
+https://github.com/user-attachments/assets/73540ba6-1b79-4cf6-b1c3-dfc7ed51fb9f
 
 ---
 
