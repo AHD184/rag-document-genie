@@ -6,6 +6,12 @@ This project uses **Streamlit**, **Ollama**, local embeddings, and cosine simila
 
 ---
 
+## Demo Video
+
+[Watch the demo video](assets/demo.mp4)
+
+---
+
 ## Overview
 
 AHD's Document Genie is a PDF-based chatbot that answers questions using the contents of an uploaded document. After a PDF is uploaded, the app extracts its text, splits it into overlapping chunks, creates embeddings for each chunk, retrieves the most relevant chunks for a user query, and passes those chunks to a local LLM through Ollama.
